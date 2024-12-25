@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 It's me Divyadharshini
 
-<!--
-**divyadharshinidevarajan/divyadharshinidevarajan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Passionate software enthusiast with a strong foundation in programming and problem-solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Here's my [portfolio](https://divyadharshinid.my.canva.site/traditional-art-portfolio-website-in-black-blue-ivory-dark-experimental-style) 
+- 🌱 I’m currently learning DSA
+- 👯 I’m looking to collaborate on Data Science and Web Development.
+- 🤔 I’m looking for help with Placements in FAANG
+- 💬 Ask me about tech
+- 📫 How to reach me:
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/divyadharsini-devarajan-2a967025a/)
+- 😄 Pronouns: Techie
+- ⚡ Fun fact: Code explorer
